@@ -86,9 +86,11 @@ asyncio for non-blocking execution
 Telegram API (or other messaging tools) for notifications
 
 ## 📦 Sample Output
+```bash
 Symbol	Signal_Daily	Signal_4H
 BTC/USDT	Long	Short
 ETH/USDT	Short	Short
+```
 
 ## 🖼️ Screenshots & Preview
 ![Cover](assets/ss.png)
