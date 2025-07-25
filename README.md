@@ -21,7 +21,7 @@ Instead, it helps you:
 
 ✅ Scan hundreds of crypto assets quickly
 ✅ Identify potential signals based on price action logic
-✅ Get notified instantly via messenger (e.g. Bale)
+✅ Get notified instantly via messenger (e.g. Telegram)
 ✅ Decide manually based on volume, trend, and broader technical context
 
 ## ⚙️ Signal Logic (Simplified Price Action)
