@@ -95,6 +95,10 @@ ETH/USDT	Short	Short
 ## 🖼️ Screenshots & Preview
 ![Cover](assets/ss.png)
 
+## License
+
+This project is licensed under the MIT License.
+
 ## 👤 About the Developer
 Developed by Erfan Pouretemad as a practical and efficient side project to streamline manual crypto analysis.
 For me, trading is personal — I enjoy the decision-making process.
